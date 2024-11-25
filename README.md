@@ -13,7 +13,7 @@ This repository stores and updates datasets and relevant notebooks for the DEBAS
 ### Dataset
 
 - **DEBASS_allHost**:
-Contains RA&DEC for SN&Host; and host galaxy properties (Host LOGMASS; Host colour and dDLR).
+Contains RA&DEC for SN&Host; and host galaxy property measurements.
 
 - **In_Both**:
 Contains SNe Ia that image cut-outs are available in both PS1 and SDSS surveys.
