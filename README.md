@@ -1,23 +1,31 @@
 # DEBASS-Host
-This repository stores and updates datasets and relevant notebooks for DEBASS sample.
+This repository stores and updates datasets and relevant notebooks for the DEBASS sample.
 
 ## Repository Contents
 
 ### Jupyter Notebooks
 
-- **1. DEBASS SN**:  
-  This notebook covers major procedures for computing all properties with subtitles included.
-
-- **2. d_DLR_edited_CLi**:  
-  This notebook covers codes for computing dDLR with updated method. 
+- **Host_Properties**:  
+  This notebook covers essential procedures for computing host properties, subtitles are included for each section.
 
 
 
 ### Dataset
 
 - **DEBASS_allHost**:
-Contains RA&DEC for SN and Host; Host LOGMASS; Host colour and dDLR with name.
+Contains RA&DEC for SN&Host; and host galaxy properties (Host LOGMASS; Host colour and dDLR).
 
+- **In_Both**:
+Contains SNe Ia that image cut-outs are available in both PS1 and SDSS surveys.
+
+- **Only_PS1**:
+Contains SNe Ia that image cut-outs are available only in the PS1 survey.
+
+- **Model Prediction**:
+Contains extracted data of the Childress2014 Mass Distribution Model.
+
+- **alpha_lyr_stis_005.ascii**, **sr.dat**, **sux.dat**:
+Bessell filter curves in SALT2 are used for host (U-R) color computation.
 
 ## How to Use
 
