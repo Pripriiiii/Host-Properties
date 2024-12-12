@@ -32,8 +32,12 @@ Contains FN SNe Ia that image cut-outs are available in both PS1 and SDSS survey
 - **Model Prediction**:
 Contains extracted data of the Childress2014 Mass Distribution Model.
 
+- **DEBASS_shape_low_threshold, FN_shape_low_threshold2**:
+Contains shape parameters with a low threshold for DEBASS and FN samples, which are used to measure dDLR. Note that we find larger values for dDLR than expected.
+
 - **alpha_lyr_stis_005.ascii**, **sr.dat**, **sux.dat**:
 Bessell filter curves in SALT2 are used for host (U-R) colour computation.
+
 
 ## How to Use
 
