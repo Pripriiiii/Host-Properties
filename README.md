@@ -1,5 +1,5 @@
 # Host-Properties
-This repository stores and updates datasets and relevant notebooks for host galaxy properties computations.
+This repository stores and updates datasets and relevant notebooks for host galaxy property computations.
 
 ## Repository Contents
 
@@ -8,14 +8,25 @@ This repository stores and updates datasets and relevant notebooks for host gala
 - **Host_Properties**:  
   This notebook covers essential procedures for computing host properties (LOGMASS, (U-R) colour, dDLR).
 
+### Python Cripts
+
+- **Photometry**:
+  Separated script for computing global photometry only.
+
+- **Store_phot**:
+  Separated script for saving photometry data and writing it into text files used for sedfitting.
+
+- **UR_Colour**:
+  Separated script for computing (U-R) colour only.
+
 
 ### Dataset
 
 - **DEBASS_allHost**:
-Contains RA&DEC for SN&Host; and host galaxy property measurements of DEBASS sample.
+Contains RA&DEC for SN&Host; and host galaxy property measurements of DEBASS sample. (Currently 321 hosts. Note that dDLR is in processing.)
 
 - **FN_Host_Properties**:
-Contains RA&DEC for SN&Host; and host galaxy property measurements of Foundation sample.
+Contains RA&DEC for SN&Host; and host galaxy property measurements of the Foundation sample.
 
 - **In_Both**:
 Contains DEBASS SNe Ia that image cut-outs are available in both PS1 and SDSS surveys.
