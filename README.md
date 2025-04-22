@@ -8,7 +8,7 @@ This repository stores and updates datasets and relevant notebooks for host gala
 - **Host_Properties**:  
   This notebook covers essential procedures for computing host properties (LOGMASS, (U-R) colour, dDLR).
 
-### Python Cripts
+### Python Scripts
 
 - **Photometry**:
   Separated script for computing global photometry only.
