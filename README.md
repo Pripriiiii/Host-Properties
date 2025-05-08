@@ -23,22 +23,10 @@ This repository stores and updates datasets and relevant notebooks for host gala
 ### Dataset
 
 - **DEBASS_allHost**:
-Contains RA&DEC for SN&Host; and host galaxy property measurements of DEBASS sample. (Currently 321 hosts. Note that dDLR is in processing.)
+Contains RA&DEC for SN&Host; and host galaxy property measurements of the DEBASS sample. (Currently 321 hosts. Note that dDLR is in processing.)
 
 - **FN_Host_Properties**:
 Contains RA&DEC for SN&Host; and host galaxy property measurements of the Foundation sample.
-
-- **In_Both**:
-Contains DEBASS SNe Ia that image cut-outs are available in both PS1 and SDSS surveys.
-
-- **Only_PS1**:
-Contains DEBASS SNe Ia that image cut-outs are available only in the PS1 survey.
-
-- **FN_PS1_ONLY**:
-Contains FN SNe Ia that image cut-outs are available only in the PS1 survey.
-
-- **FN_PS1_SDSS**:
-Contains FN SNe Ia that image cut-outs are available in both PS1 and SDSS surveys.
 
 - **Model Prediction**:
 Contains extracted data of the Childress2014 Mass Distribution Model.
